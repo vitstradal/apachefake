@@ -1,0 +1,8 @@
+MYMETA.json
+MYMETA.yml
+Makefile
+blib/
+lib/GDC/ApacheFake.bs
+lib/GDC/ApacheFake.c
+lib/GDC/ApacheFake.o
+pm_to_blib
