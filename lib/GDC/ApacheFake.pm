@@ -1,5 +1,8 @@
 package GDC::ApacheFake;
-BEGIN { our $VERSION = 0.01 }
+BEGIN {
+	our $VERSION = 0.01;
+	#warn nop();
+}
 require XSLoader;
 XSLoader::load();
 1;
